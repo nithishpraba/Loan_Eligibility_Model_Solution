@@ -67,3 +67,5 @@ if st.button("Predict"):
     except Exception as e:
         st.error("Error during prediction.")
         logger.error("Prediction error: %s", e)
+
+#test1
