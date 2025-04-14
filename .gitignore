@@ -12,8 +12,6 @@ env/
 # Ignore Jupyter Notebook checkpoints (if any)
 .ipynb_checkpoints/
 
-# Ignore generated model files (if you prefer not to push them)
-models/*.pkl
 
 # Ignore OS-specific files
 .DS_Store
